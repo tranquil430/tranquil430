@@ -1,5 +1,3 @@
-# [Your Name]
-
 [![KC7](https://img.shields.io/badge/KC7-Top_1%25_Globally-blue?style=flat-square)](https://kc7cyber.com/profile/89e71f13)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-CDSA_(In_Progress)-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2192002)
 
