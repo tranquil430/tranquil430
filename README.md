@@ -13,7 +13,8 @@ CS student and aspiring SOC Analyst. Daily driving GNU/Linux, focusing on detect
 *   **Detection & Forensics:** Splunk, Elastic, Wazuh, Velociraptor, Volatility, YARA, Sigma
 *   **Network Analysis:** Wireshark, Zeek, Suricata, Snort, Nmap, Cisco
 *   **Scripting:** Bash, PowerShell, Python
-  
+  ---
+<br>
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
