@@ -4,15 +4,11 @@
           user: tranquil430
           template: terminal
           filename: github-metrics.svg
-          # Minimalist selection
           base: header, metadata
-          # Adding a "tech" touch
           plugin_languages: yes
           plugin_languages_details: bytes-size
           plugin_languages_threshold: 2%
-          # Adding a "security" touch
           plugin_activity: yes
           plugin_activity_limit: 5
-          # Styling
           config_timezone: Asia/Manila
           config_padding: 0, 10
