@@ -15,5 +15,5 @@ CS student and aspiring SOC Analyst. Daily driving GNU/Linux, focusing on detect
 *   **Scripting:** Bash, PowerShell, Python
   
 <div align="center">
-  <img src="https://cdn.statically.io/gh/tranquil430/tranquil430/main/github-metrics.svg" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
