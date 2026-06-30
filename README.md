@@ -13,8 +13,8 @@ CS student and aspiring SOC Analyst. Daily driving GNU/Linux, focusing on detect
 *   **Detection & Forensics:** Splunk, Elastic, Wazuh, Velociraptor, Volatility, YARA, Sigma
 *   **Network Analysis:** Wireshark, Zeek, Suricata, Snort, Nmap, Cisco
 *   **Scripting:** Bash, PowerShell, Python
-
+*   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranquil430&theme=transparent&hide_border=true&show_icons=true&title_color=white&text_color=gray&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquil430&layout=compact&theme=transparent&hide_border=true&text_color=gray&v=1" alt="Top Languages" />
+  <img src="https://nice-readme.vercel.app/stats?username=tranquil430&theme=transparent&hide_border=true&show_icons=true&title_color=white&text_color=gray" alt="GitHub Stats" />
+  <img src="https://nice-readme.vercel.app/api/top-langs/?username=tranquil430&layout=compact&theme=transparent&hide_border=true&text_color=gray" alt="Top Languages" />
 </div>
