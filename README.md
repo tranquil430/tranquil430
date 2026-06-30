@@ -15,5 +15,5 @@ CS student and aspiring SOC Analyst. Daily driving GNU/Linux, focusing on detect
 *   **Scripting:** Bash, PowerShell, Python
   
 <div align="center">
-  ![Metrics](metrics.svg)
+  ![Metrics](github-metrics.svg)
 </div>
