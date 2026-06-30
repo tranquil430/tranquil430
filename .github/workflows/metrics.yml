@@ -1,20 +1,18 @@
-name: Metrics
-on:
-  schedule: [{cron: "0 0 * * *"}] # Runs daily
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
+- uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: tranquil430
-          template: classic
-          base: header, activity, community, repositories, metadata
-          # This enables private commit tracking
+          template: terminal
+          filename: github-metrics.svg
+          # Minimalist selection
+          base: header, metadata
+          # Adding a "tech" touch
+          plugin_languages: yes
+          plugin_languages_details: bytes-size
+          plugin_languages_threshold: 2%
+          # Adding a "security" touch
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          # Styling
           config_timezone: Asia/Manila
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          config_padding: 0, 10
