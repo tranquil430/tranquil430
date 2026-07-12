@@ -9,7 +9,7 @@ CS student and aspiring SOC Analyst. Daily driving GNU/Linux, focusing on detect
 *   **Certs:** Prepping for HTB CDSA (Expected Nov 2026). BTJA and KC7 Security Analyst I certified.
 *   **Thesis:** ML-driven storage pipeline (Random Forest/XGBoost) optimizing for 7z compression, featuring at-rest encryption and automated AV scanning.
 
-## Tech
+## Tools
 *   **Detection & Forensics:** Splunk, Elastic, Wazuh, Velociraptor, Volatility, YARA, Sigma
 *   **Network Analysis:** Wireshark, Zeek, Suricata, Snort, Nmap, Cisco
 *   **Scripting:** Bash, PowerShell, Python
