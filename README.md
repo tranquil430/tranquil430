@@ -13,9 +13,11 @@ CS student and aspiring systems analyst. Daily driving Linux, focusing on system
 
 ## Tech Stack
 
-*   **System Analytics & Investigation:** Splunk, Elastic, Wazuh, Velociraptor, Volatility, YARA, Sigma
-*   **Network Analysis:** Wireshark, Zeek, Suricata, Snort, Nmap, Cisco
-*   **Scripting:** Bash, PowerShell, Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ## Stats
 
@@ -41,4 +43,3 @@ System monitoring and log analysis queries.
 
 ---
 
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
