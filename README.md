@@ -31,13 +31,5 @@ An ML-powered file management tool that automates archiving by predicting what t
 ### [KC7-Logs](https://github.com/tranquil430/KC7-Threat-Hunting-Logs)
 System monitoring and log analysis queries.
 
-##  Connect With Me
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=tranquil430&theme=zen" alt="tranquil430 social links" />
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tranquil430)
-
 ---
 
